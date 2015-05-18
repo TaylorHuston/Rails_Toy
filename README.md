@@ -1,5 +1,8 @@
 # Ruby on Rails Tutorial: "toy app"
 
-This is the second application for the
-[*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
+Status: Complete
+
+This is the 2nd sample application for the
+[*Ruby on Rails Tutorial:
+Learn Web Development with Rails*](http://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).
